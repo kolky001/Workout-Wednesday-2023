@@ -1,0 +1,30 @@
+power.clean,shot.putt,,,Dataset: shotput_powerclean.csv
+37.98903108,6.379182156,,,
+51.70018282,10.21561338,,,"Source: L.W. Judge, D. Bellar, A.B. Thrasher, L. Simon, O.S. Hindawi, and"
+60.65813528,12.98141264,,,"E. Wanless (2013). ""A Pilot Study Exploring the Quadratic Nature of the"
+60.84095064,12.40148699,,,"Relationship of Strength to Performance among Shot Putters,"" International"
+63.40036563,13.2267658,,,"Journal of Exercise Science, Vol. 6, #2, pp. 171-179."
+65.41133455,12.98141264,,,
+70.16453382,12.84758364,,,Description: 1 Repetition Maximum power clean (weight lifting) and personal
+92.46800731,13.94052045,,,best shot putt for 28 female collegiate shot putters. Note: the original
+92.65082267,15.94795539,,,"sample had n=29 individuals, but graph has on 28 observable points."
+92.83363803,15.63568773,,,Data approximated from graph.
+95.0274223,15.88104089,,,
+97.03839122,16.81784387,,,Variables/Names
+97.22120658,16.7732342,,,Best pre-season 1 rep power clean lift in kg   (power.clean)
+97.22120658,17.06319703,,,Personal best shot put in meters (shot.putt)
+97.40402194,17.79925651,,,
+100.3290676,16.28252788,,,
+101.6087751,14.87732342,,,
+101.6087751,15.65799257,,,
+104.3510055,16.23791822,,,
+108.5557587,18.02230483,,,
+114.2230347,16.03717472,,,
+115.5027422,16.7732342,,,
+115.6855576,15.90334572,,,
+115.6855576,17.66542751,,,
+120.2559415,18.28996283,,,
+120.2559415,19.2267658,,,
+124.4606947,16.8401487,,,
+126.654479,17.04089219,,,
+141.4625229,18.64684015,,,
